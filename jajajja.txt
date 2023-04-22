@@ -1,0 +1,38 @@
+ <div class="container">
+        <div class="profiles">
+
+            <div class="base-profile">
+                <div class="base-foto-name">
+                <img src="foto-gabriel.jpg" alt="Foto do Gabriel">
+                <div class="base-name-city">
+                    <div class="name">
+                        Gabriel Peixoto
+                    </div>
+                    <div class="city">
+                        Tremembé - SP 
+                    </div>
+                </div>
+            </div>
+            <div class="description"> Começando no primeiro semestre de ads na UNITAU - Campos da Juta. </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="profiles">
+
+            <div class="base-profile">
+                <div class="base-foto-name">
+                <img src="foto-douglas.jpg" alt="Foto do Douglas">
+                <div class="base-name-city">
+                    <div class="name">
+                        Douglas Cipriano
+                    </div>
+                    <div class="city">
+                        Taubaté - SP 
+                    </div>
+                </div>
+            </div>
+            <div class="description"> Graduando em Análise e Desenvolvimento de Sistemas (SENACSP), Mestre em Ciências - foco em Desenvolvimento Motor Infantil (EEFE-USP)</div>
+            </div>
+        </div>
+    </div>
